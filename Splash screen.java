@@ -10,7 +10,7 @@ import com.zerostic.textie.LoginActivity;
 import com.zerostic.textie.R;
 
 public class SplashActivity extends AppCompatActivity {
-    private final int SPLASH_DISPLAY_LENGTH = 1000;
+    private final int SPLASH_DISPLAY_LENGTH = 1000;  //This is the time duration of the splash activity.
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
